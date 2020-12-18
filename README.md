@@ -6,7 +6,7 @@
 
 - http://eve.kean.edu/~retanant/TECH3500//personalPage/PersonalPageFinal.html
 
-- <b>Description:</b>  My personal website - Rough Copy - Rookie mistake, overwrited a final copy and now images are all dead links.
+- <b>Description:</b>  My personal website - Rough Copy - Rookie mistake, overwrote the final copy with a rough version and now images are all dead links.
 
 
 ## Project #2
